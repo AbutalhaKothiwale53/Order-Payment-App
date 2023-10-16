@@ -1,0 +1,14 @@
+server:
+  port: 9091
+Spring:
+  application:
+    name: order-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/order_service_db
+    username: root
+    password: root
+    jpa:
+      hibernate:
+        ddl-auto: update
+        dialect: org.hibernate.dialect.MySQL5Dialect
+      show-sql: true
