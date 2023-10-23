@@ -12,3 +12,4 @@ Spring:
         ddl-auto: update
         dialect: org.hibernate.dialect.MySQL5Dialect
       show-sql: true
+    driver-class-name: com.mysql.cj.jdbc.Driver
