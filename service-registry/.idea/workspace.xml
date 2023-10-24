@@ -4,49 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd25fc4f-ee95-46e5-9209-a1306ec5e563" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../api-gateway-service/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway-service/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway-service/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway-service/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway-service/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway-service/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway-service/src/main/java/com/orderpaymentservice/apiGatewayService/FallbackController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway-service/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway-service/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../api-gateway-service/target/classes/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../order-service/out/artifacts/order_service_jar/order-service.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../order-service/target/test-classes/com/orderpaymentservice/OrderServiceApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../payment-service/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/orderpaymentservice/serviceRegistry/ServiceRegistryApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../api-gateway-service/src/main/java/com/orderpaymentservice/apiGatewayService/ApiGatewayServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api-gateway-service/src/main/java/com/orderpaymentservice/apiGatewayService/ApiGatewayServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/orderpaymentservice/OrderServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/orderpaymentservice/OrderServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/src/main/java/com/orderpaymentservice/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/java/com/orderpaymentservice/service/OrderService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/target/classes/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/target/classes/com/orderpaymentservice/OrderServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/target/classes/com/orderpaymentservice/OrderServiceApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../order-service/target/classes/com/orderpaymentservice/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../order-service/target/classes/com/orderpaymentservice/service/OrderService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../payment-service/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../payment-service/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../payment-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../payment-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../payment-service/src/main/java/com/orderpaymentservice/PaymentServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../payment-service/src/main/java/com/orderpaymentservice/PaymentServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../payment-service/src/main/java/com/orderpaymentservice/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../payment-service/src/main/java/com/orderpaymentservice/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../payment-service/src/main/java/com/orderpaymentservice/repository/PaymentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../payment-service/src/main/java/com/orderpaymentservice/repository/PaymentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../payment-service/src/main/java/com/orderpaymentservice/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../payment-service/src/main/java/com/orderpaymentservice/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../payment-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../payment-service/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/orderpaymentservice/serviceRegistry/ServiceRegistryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/orderpaymentservice/serviceRegistry/ServiceRegistryApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="bd25fc4f-ee95-46e5-9209-a1306ec5e563" name="Changes" comment="Created service-registry" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,8 +74,17 @@
       <workItem from="1698095375074" duration="449000" />
       <workItem from="1698097792568" duration="3454000" />
       <workItem from="1698148013319" duration="1000" />
-      <workItem from="1698148145871" duration="1956000" />
+      <workItem from="1698148145871" duration="2022000" />
     </task>
+    <task id="LOCAL-00001" summary="Created service-registry">
+      <option name="closed" value="true" />
+      <created>1698184116692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698184116692</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,5 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Created service-registry" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created service-registry" />
   </component>
 </project>
