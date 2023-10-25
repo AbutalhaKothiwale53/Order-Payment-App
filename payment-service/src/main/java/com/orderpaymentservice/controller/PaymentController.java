@@ -22,4 +22,5 @@ public class PaymentController {
     public Payment findPaymentHistoryByOrderId(@PathVariable Integer orderId){
         return  paymentService.findPaymentHistoryByOrderId(orderId);
     }
+
 }
